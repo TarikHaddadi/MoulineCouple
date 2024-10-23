@@ -38,8 +38,8 @@ html {
 
 
 .hero {
-  background-image: url(https://picsum.photos/id/25/1920/1080);
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("https://picsum.photos/id/381/1920/1080") no-repeat;
+  background-image: url(https://as1.ftcdn.net/v2/jpg/06/03/52/18/1000_F_603521864_SOIHjmC8CXUfJSOzX7NYkt9Ew2KtpUow.jpg);
+  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("https://as1.ftcdn.net/v2/jpg/06/03/52/18/1000_F_603521864_SOIHjmC8CXUfJSOzX7NYkt9Ew2KtpUow.jpg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: white;
